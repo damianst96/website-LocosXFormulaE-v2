@@ -156,6 +156,10 @@ border: 2px solid #F04E23;
 border: 2px solid red;
 }
 
+.tablaNASCAR {
+border: 2px solid #FFD659;
+}
+
 th, td {
 padding-right: 20px;
 }
